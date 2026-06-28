@@ -70,7 +70,7 @@ python pattern_generator.py
 ![Program output](output1.png)
 
 ##  ▶️ Video Demonstration
-[video link](https://drive.google.com/file/d/1B1sXWGQK2nLEl6EpFB4YWKVgQHAirhlZ/view?usp=sharing)
+[video link](https://drive.google.com/file/d/1zlY4nI7EJVlpnNUsltEzUBMTTeqFTnr9/view?usp=drivesdk)
 
 ## 📚 Python Concepts Used
 
