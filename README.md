@@ -69,6 +69,9 @@ python pattern_generator.py
 ## sample output
 ![Program output](output1.png)
 
+### video demonstrate
+[video link](https://drive.google.com/file/d/1B1sXWGQK2nLEl6EpFB4YWKVgQHAirhlZ/view?usp=sharing)
+
 ## 📚 Python Concepts Used
 
 * Variables
