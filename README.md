@@ -67,7 +67,7 @@ python pattern_generator.py
 ```
 
 ## sample output
-<img width="867" height="747" alt="image" src="https://github.com/user-attachments/assets/8d08783d-0110-429c-aadd-c673e223ef7c" />
+<img width="882" height="732" alt="image" src="https://github.com/user-attachments/assets/fb3d230c-d2d6-40cc-986e-91fad46e1e5e" />
 
 
 
