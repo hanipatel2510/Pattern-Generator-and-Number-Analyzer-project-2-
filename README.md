@@ -79,7 +79,7 @@ python pattern_generator.py
 * Loops
 * Nested Loops
 * Conditional Statements
-* Match-Case
+* Match-Case 
 * Range Function
 * Arithmetic Operators
 * Pattern Printing
