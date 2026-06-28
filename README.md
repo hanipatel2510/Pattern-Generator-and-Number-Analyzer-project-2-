@@ -32,6 +32,14 @@ This project is beginner-friendly and helps understand basic Python programming 
 
 * Terminates the application safely.
 
+  ## 📝 Assumptions
+
+- The user enters only valid integer values for menu choices and inputs.
+- The number of rows for the pattern should be greater than zero.
+- The ending value of the range should be greater than or equal to the starting value.
+- The program runs in a Python 3.x environment.
+- The application is designed to run in the command-line (console) interface.
+
 ## 🛠️ Technologies Used
 
 * Python 3.x
@@ -58,50 +66,10 @@ Pattern-Generator-and-Number-Analyzer/
 python pattern_generator.py
 ```
 
-## 📋 Menu
+## sample output
+<img width="867" height="747" alt="image" src="https://github.com/user-attachments/assets/8d08783d-0110-429c-aadd-c673e223ef7c" />
 
-Welcome to the Pattern Generator and Number Analyzer!
 
-1. Generate a Pattern
-2. Analyze a Range of Numbers
-3. Exit
-
-## 🖥️ Sample Output
-
-### Option 1: Generate Pattern
-
-```text
-Enter your choice (1-3): 1
-Enter any number: 6
-
-Pattern:
-*
-**
-***
-****
-*****
-```
-
-### Option 2: Analyze Numbers
-```
-Enter your choice (1-3): 2
-
-Enter the start of the range: 1
-Enter the end of the range: 6
-
-Number 1 is Odd
-Number 2 is Even
-Number 3 is Odd
-Number 4 is Even
-Number 5 is Odd
-
-Sum = 15
-```
-
-### Option 3: Exit
-```
-Exiting the program. Goodbye!
-```
 
 ## 📚 Python Concepts Used
 
