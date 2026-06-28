@@ -66,10 +66,10 @@ Pattern-Generator-and-Number-Analyzer/
 python pattern_generator.py
 ```
 
-## sample output
+## 🖼️ sample output
 ![Program output](output1.png)
 
-## Video Demonstration
+##  ▶️ Video Demonstration
 [video link](https://drive.google.com/file/d/1B1sXWGQK2nLEl6EpFB4YWKVgQHAirhlZ/view?usp=sharing)
 
 ## 📚 Python Concepts Used
