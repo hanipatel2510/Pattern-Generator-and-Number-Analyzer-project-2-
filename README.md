@@ -32,7 +32,7 @@ This project is beginner-friendly and helps understand basic Python programming 
 
 * Terminates the application safely.
 
-  ## 📝 Assumptions
+## 📝 Assumptions
 
 - The user enters only valid integer values for menu choices and inputs.
 - The number of rows for the pattern should be greater than zero.
