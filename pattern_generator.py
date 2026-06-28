@@ -15,7 +15,7 @@ while True:
 
             print("\npattern:")
             
-            for i in range(1,row):
+            for i in range(1,row+1):
                 for j in range(i):
                     print("*",end="")
                 print()
@@ -29,7 +29,7 @@ while True:
                 else:
                     print("Invalid Range! End should be greater than Start.")
             sum_result=0
-            for k in range(start,end):
+            for k in range(start,end+1):
                 if k == 0:
                     pass
                 if k % 2 == 0:
