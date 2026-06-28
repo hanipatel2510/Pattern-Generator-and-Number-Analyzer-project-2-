@@ -70,6 +70,7 @@ Welcome to the Pattern Generator and Number Analyzer!
 
 ### Option 1: Generate Pattern
 
+```text
 Enter your choice (1-3): 1
 Enter any number: 6
 
@@ -79,6 +80,7 @@ Pattern:
 ***
 ****
 *****
+```
 
 ### Option 2: Analyze Numbers
 
