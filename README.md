@@ -83,7 +83,7 @@ Pattern:
 ```
 
 ### Option 2: Analyze Numbers
-
+```
 Enter your choice (1-3): 2
 
 Enter the start of the range: 1
@@ -96,9 +96,12 @@ Number 4 is Even
 Number 5 is Odd
 
 Sum = 15
+```
 
 ### Option 3: Exit
+```
 Exiting the program. Goodbye!
+```
 
 ## 📚 Python Concepts Used
 
