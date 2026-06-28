@@ -67,7 +67,7 @@ python pattern_generator.py
 ```
 
 ## sample output
-![Program output](output.png)
+![Program output](output1.png)
 
 ## 📚 Python Concepts Used
 
